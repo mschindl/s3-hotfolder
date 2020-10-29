@@ -1,4 +1,4 @@
-# "Hot Foler" Transferscript
+# "Hot Folder" S3 transfer script
 Updated on 8 Feb 2019
 
 Workflow:
@@ -8,7 +8,7 @@ Workflow:
 - Create temp URL for duration time
 
 Requirements:
-1. install S3-Client
+1. install S3-Client, i.e.
 https://github.com/ffeldhaus/S3-Client
 2. customize variables
-
+3. run script and move files to S3 target
