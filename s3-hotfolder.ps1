@@ -1,16 +1,10 @@
-# Check README_s3-hotfoler
-###
-# "Hot Foler" Transferscript
-# Multiple File Upload per loop
-# Rename files with adding S3_ in front of the filename
-# Exclude all files which starts with S3_
-# Create temp URL for duration time
+# Check README.md for additional information
 ###
 	$ProgressPreference = "SilentlyContinue"
 	#Profile / Credentials
 	$vProfile = "SGPub"
 	# Folder path
-	$vFileDirectory = "/Users/marc/Downloads/TMP2"
+	$vFileDirectory = "~/scratch/"
 	# Bucket name
 	$vBucketname =  "sync-and-share"
 	#Duration: one week
