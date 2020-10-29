@@ -1,4 +1,4 @@
-# "Hot Foler" Transferscript
+# "Hot Folder" transfer script
 Updated on 8 Feb 2019
 
 Workflow:
