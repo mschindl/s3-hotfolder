@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # "Hot Folder" S3 transfer script
+=======
+# "Hot Folder" transfer script
+>>>>>>> 807ca8040a8f251045819e78e22f5dc0f3cb4e59
 Updated on 8 Feb 2019
 
 Workflow:
